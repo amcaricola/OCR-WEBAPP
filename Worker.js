@@ -1,4 +1,4 @@
-import { ShowNotification } from "/ToastifyNotification.js";
+import { ShowNotification } from "./ToastifyNotification.js";
 
 const UploadImage = document.getElementById("fileToUpload");
 const SelectBtn = document.getElementById("selectBtn");
